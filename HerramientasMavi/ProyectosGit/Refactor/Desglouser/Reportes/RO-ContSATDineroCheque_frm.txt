@@ -1,0 +1,14 @@
+-------------------------------------------------------
+--> TITULO: RO-ContSATDineroCheque_frm.txt
+-------------------------------------------------------
+
+OBJETOS CONTENIDOS
+
+-------------------------------------------------------
+--> SQL
+
+-------------------------------------------------------
+Procedimientos Almacenados:
+-------------------------------------------------------
+spContSATDineroActualizarCtaDineroRfc
+spActualizarContSatDinero

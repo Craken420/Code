@@ -1,0 +1,43 @@
+-------------------------------------------------------
+--> TITULO: RO-ContSATComprobanteLista_frm.txt
+-------------------------------------------------------
+
+OBJETOS CONTENIDOS
+
+-------------------------------------------------------
+--> SQL
+-------------------------------------------------------
+Funciones:
+-------------------------------------------------------
+fnBuscaMetodoPago
+
+-------------------------------------------------------
+Procedimientos Almacenados:
+-------------------------------------------------------
+spContSATGenerarXml
+spValidarContSatComprobante
+
+-------------------------------------------------------
+--> INTELISIS
+
+-------------------------------------------------------
+Formas:
+-------------------------------------------------------
+ContSATLista
+MovPos
+ContSATChequeLista
+ContSATTranferenciaLista
+ContSATCFDCBB
+ContSATExtranjero
+ContSATOtroMetodoPago
+
+-------------------------------------------------------
+Variables:
+-------------------------------------------------------
+Info.Mov
+Info.Modulo
+Info.ID
+Info.Ejercicio
+Info.Periodo
+Info.Tipo
+Info.Valor

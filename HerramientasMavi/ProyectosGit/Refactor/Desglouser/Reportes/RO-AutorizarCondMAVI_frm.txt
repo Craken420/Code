@@ -1,0 +1,100 @@
+-------------------------------------------------------
+--> TITULO: RO-AutorizarCondMAVI_frm.txt
+-------------------------------------------------------
+
+OBJETOS CONTENIDOS
+
+-------------------------------------------------------
+--> SQL
+
+-------------------------------------------------------
+Procedimientos Almacenados:
+-------------------------------------------------------
+spValidaUsuarioMAVI
+spAutorizaCondonacionMAVI
+spValidaAutorizacionCondMAVI
+spReajusteCobroMAVI
+spReajusteCobroxFact
+
+-------------------------------------------------------
+Tablas:
+-------------------------------------------------------
+Usuario
+
+-------------------------------------------------------
+--> INTELISIS
+
+-------------------------------------------------------
+Variables:
+-------------------------------------------------------
+Info.Usuario
+Info.Contrasena
+Info.Numero
+Temp.Reg
+Info.ABC-------------------------------------------------------
+--> TITULO: RO-AutorizarCondMAVI_frm.txt
+-------------------------------------------------------
+
+OBJETOS CONTENIDOS
+
+-------------------------------------------------------
+--> SQL
+
+-------------------------------------------------------
+Procedimientos Almacenados:
+-------------------------------------------------------
+spValidaUsuarioMAVI
+spAutorizaCondonacionMAVI
+spValidaAutorizacionCondMAVI
+spReajusteCobroMAVI
+spReajusteCobroxFact
+
+-------------------------------------------------------
+Tablas:
+-------------------------------------------------------
+Usuario
+
+-------------------------------------------------------
+--> INTELISIS
+
+-------------------------------------------------------
+Variables:
+-------------------------------------------------------
+Info.Usuario
+Info.Contrasena
+Info.Numero
+Temp.Reg
+Info.ABC-------------------------------------------------------
+--> TITULO: RO-AutorizarCondMAVI_frm.txt
+-------------------------------------------------------
+
+OBJETOS CONTENIDOS
+
+-------------------------------------------------------
+--> SQL
+
+-------------------------------------------------------
+Procedimientos Almacenados:
+-------------------------------------------------------
+spValidaUsuarioMAVI
+spAutorizaCondonacionMAVI
+spValidaAutorizacionCondMAVI
+spReajusteCobroMAVI
+spReajusteCobroxFact
+
+-------------------------------------------------------
+Tablas:
+-------------------------------------------------------
+Usuario
+
+-------------------------------------------------------
+--> INTELISIS
+
+-------------------------------------------------------
+Variables:
+-------------------------------------------------------
+Info.Usuario
+Info.Contrasena
+Info.Numero
+Temp.Reg
+Info.ABC

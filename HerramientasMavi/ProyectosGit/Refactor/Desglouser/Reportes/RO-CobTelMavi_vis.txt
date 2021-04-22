@@ -1,0 +1,55 @@
+-------------------------------------------------------
+--> TITULO: RO-CobTelMavi_vis.txt
+-------------------------------------------------------
+
+OBJETOS CONTENIDOS
+
+-------------------------------------------------------
+--> SQL
+
+-------------------------------------------------------
+Tablas:
+-------------------------------------------------------
+CobTelMavi
+CobTelAsignacionDMavi
+CobTelRespuestasMavi
+Cte
+Prop
+NivelCobranzaTelMavi
+Agente-------------------------------------------------------
+--> TITULO: RO-CobTelMavi_vis.txt
+-------------------------------------------------------
+
+OBJETOS CONTENIDOS
+
+-------------------------------------------------------
+--> SQL
+
+-------------------------------------------------------
+Tablas:
+-------------------------------------------------------
+CobTelMavi
+CobTelAsignacionDMavi
+CobTelRespuestasMavi
+Cte
+Prop
+NivelCobranzaTelMavi
+Agente-------------------------------------------------------
+--> TITULO: RO-CobTelMavi_vis.txt
+-------------------------------------------------------
+
+OBJETOS CONTENIDOS
+
+-------------------------------------------------------
+--> SQL
+
+-------------------------------------------------------
+Tablas:
+-------------------------------------------------------
+CobTelMavi
+CobTelAsignacionDMavi
+CobTelRespuestasMavi
+Cte
+Prop
+NivelCobranzaTelMavi
+Agente

@@ -1,0 +1,14 @@
+observacion del dia:
+----------------------------------------------------------------------
+quitar no print en la intranet para poder imprimir un reporte del ftp
+----------------------------------------------------------------------
+
+itemsCopy = items.slice();
+
+Para convertir un objeto "array-like" a un arreglo, usa Array#slice.
+
+function trigger() {
+  var args = Array.prototype.slice.call(arguments);
+  ...
+}
+----------------------------------------------------------------------

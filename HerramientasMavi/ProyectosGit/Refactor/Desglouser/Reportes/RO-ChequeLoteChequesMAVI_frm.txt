@@ -1,0 +1,94 @@
+-------------------------------------------------------
+--> TITULO: RO-ChequeLoteChequesMAVI_frm.txt
+-------------------------------------------------------
+
+OBJETOS CONTENIDOS
+
+-------------------------------------------------------
+--> SQL
+
+-------------------------------------------------------
+Tablas:
+-------------------------------------------------------
+ctadinero
+
+-------------------------------------------------------
+--> INTELISIS
+
+-------------------------------------------------------
+Reportes:
+-------------------------------------------------------
+RepChequeLoteBanamexMAVI
+RepChequeLoteBansiMAVI
+RepChequeLoteBanorteMAVI
+RepChequeLoteSantanderMAVI
+RepChequeLoteBancomerMAVI
+RepChequeLoteHsbcMAVI
+RepChequeLoteBajioMAVI
+
+-------------------------------------------------------
+Variables:
+-------------------------------------------------------
+Info.Institucion-------------------------------------------------------
+--> TITULO: RO-ChequeLoteChequesMAVI_frm.txt
+-------------------------------------------------------
+
+OBJETOS CONTENIDOS
+
+-------------------------------------------------------
+--> SQL
+
+-------------------------------------------------------
+Tablas:
+-------------------------------------------------------
+ctadinero
+
+-------------------------------------------------------
+--> INTELISIS
+
+-------------------------------------------------------
+Reportes:
+-------------------------------------------------------
+RepChequeLoteBanamexMAVI
+RepChequeLoteBansiMAVI
+RepChequeLoteBanorteMAVI
+RepChequeLoteSantanderMAVI
+RepChequeLoteBancomerMAVI
+RepChequeLoteHsbcMAVI
+RepChequeLoteBajioMAVI
+
+-------------------------------------------------------
+Variables:
+-------------------------------------------------------
+Info.Institucion-------------------------------------------------------
+--> TITULO: RO-ChequeLoteChequesMAVI_frm.txt
+-------------------------------------------------------
+
+OBJETOS CONTENIDOS
+
+-------------------------------------------------------
+--> SQL
+
+-------------------------------------------------------
+Tablas:
+-------------------------------------------------------
+ctadinero
+
+-------------------------------------------------------
+--> INTELISIS
+
+-------------------------------------------------------
+Reportes:
+-------------------------------------------------------
+RepChequeLoteBanamexMAVI
+RepChequeLoteBansiMAVI
+RepChequeLoteBanorteMAVI
+RepChequeLoteSantanderMAVI
+RepChequeLoteBancomerMAVI
+RepChequeLoteHsbcMAVI
+RepChequeLoteBajioMAVI
+
+-------------------------------------------------------
+Variables:
+-------------------------------------------------------
+Info.Institucion

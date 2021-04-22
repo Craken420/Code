@@ -1,0 +1,2 @@
+/* Control de flujo en una aplicación:
+    posibles caminos que se pueden llegar a tener para llegar a una solución determinada. */

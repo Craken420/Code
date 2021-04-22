@@ -1,0 +1,14 @@
+-------------------------------------------------------
+--> TITULO: RO-ContSATDineroTransferencia_frm.txt
+-------------------------------------------------------
+
+OBJETOS CONTENIDOS
+
+-------------------------------------------------------
+--> SQL
+
+-------------------------------------------------------
+Procedimientos Almacenados:
+-------------------------------------------------------
+spContSATDineroActualizarCtaDineroRfc
+spActualizarContSatDinero

@@ -1,0 +1,154 @@
+-------------------------------------------------------
+--> TITULO: RO-AsigCtasMavi_frm.txt
+-------------------------------------------------------
+
+OBJETOS CONTENIDOS
+
+-------------------------------------------------------
+--> SQL
+-------------------------------------------------------
+Funciones:
+-------------------------------------------------------
+FN_DM0281PermiteEjecutar
+FN_DM0207ValidarEjecucionAsignacion
+FN_DM0207ValidaRuta
+fnExistenOrdenesCobroMAVI
+
+-------------------------------------------------------
+Procedimientos Almacenados:
+-------------------------------------------------------
+spAsignacionCuentas
+SP_DM0207AsignacionCteFinal
+SPIDM0207_JobAsigCtasBeneFin
+SPIDM0207_JobAsigApoyoCobDIMAS
+
+-------------------------------------------------------
+Tablas:
+-------------------------------------------------------
+ZonaCobranzamen
+DM0214ZonasCobranza
+NivelCobranzaMaviDiv
+ListaIDOk
+MaviRecuperacion
+DM0207MaviRecuperacionCteFinal
+
+-------------------------------------------------------
+--> INTELISIS
+
+-------------------------------------------------------
+Reportes:
+-------------------------------------------------------
+AsigCtasCobMenMavi
+
+-------------------------------------------------------
+Variables:
+-------------------------------------------------------
+Info.Fecha
+Info.Ejercicio
+Info.QuincenaMAVI
+MAVI.DM0268ValidaMensajeError
+Info.dialogo
+Info.Ruta
+Info.Mensaje-------------------------------------------------------
+--> TITULO: RO-AsigCtasMavi_frm.txt
+-------------------------------------------------------
+
+OBJETOS CONTENIDOS
+
+-------------------------------------------------------
+--> SQL
+-------------------------------------------------------
+Funciones:
+-------------------------------------------------------
+FN_DM0281PermiteEjecutar
+FN_DM0207ValidarEjecucionAsignacion
+FN_DM0207ValidaRuta
+fnExistenOrdenesCobroMAVI
+
+-------------------------------------------------------
+Procedimientos Almacenados:
+-------------------------------------------------------
+spAsignacionCuentas
+SP_DM0207AsignacionCteFinal
+SPIDM0207_JobAsigCtasBeneFin
+SPIDM0207_JobAsigApoyoCobDIMAS
+
+-------------------------------------------------------
+Tablas:
+-------------------------------------------------------
+ZonaCobranzamen
+DM0214ZonasCobranza
+NivelCobranzaMaviDiv
+ListaIDOk
+MaviRecuperacion
+DM0207MaviRecuperacionCteFinal
+
+-------------------------------------------------------
+--> INTELISIS
+
+-------------------------------------------------------
+Reportes:
+-------------------------------------------------------
+AsigCtasCobMenMavi
+
+-------------------------------------------------------
+Variables:
+-------------------------------------------------------
+Info.Fecha
+Info.Ejercicio
+Info.QuincenaMAVI
+MAVI.DM0268ValidaMensajeError
+Info.dialogo
+Info.Ruta
+Info.Mensaje-------------------------------------------------------
+--> TITULO: RO-AsigCtasMavi_frm.txt
+-------------------------------------------------------
+
+OBJETOS CONTENIDOS
+
+-------------------------------------------------------
+--> SQL
+-------------------------------------------------------
+Funciones:
+-------------------------------------------------------
+FN_DM0281PermiteEjecutar
+FN_DM0207ValidarEjecucionAsignacion
+FN_DM0207ValidaRuta
+fnExistenOrdenesCobroMAVI
+
+-------------------------------------------------------
+Procedimientos Almacenados:
+-------------------------------------------------------
+spAsignacionCuentas
+SP_DM0207AsignacionCteFinal
+SPIDM0207_JobAsigCtasBeneFin
+SPIDM0207_JobAsigApoyoCobDIMAS
+
+-------------------------------------------------------
+Tablas:
+-------------------------------------------------------
+ZonaCobranzamen
+DM0214ZonasCobranza
+NivelCobranzaMaviDiv
+ListaIDOk
+MaviRecuperacion
+DM0207MaviRecuperacionCteFinal
+
+-------------------------------------------------------
+--> INTELISIS
+
+-------------------------------------------------------
+Reportes:
+-------------------------------------------------------
+AsigCtasCobMenMavi
+
+-------------------------------------------------------
+Variables:
+-------------------------------------------------------
+Info.Fecha
+Info.Ejercicio
+Info.QuincenaMAVI
+MAVI.DM0268ValidaMensajeError
+Info.dialogo
+Info.Ruta
+Info.Mensaje

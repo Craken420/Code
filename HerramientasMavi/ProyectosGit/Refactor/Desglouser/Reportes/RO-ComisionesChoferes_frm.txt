@@ -1,0 +1,103 @@
+-------------------------------------------------------
+--> TITULO: RO-ComisionesChoferes_frm.txt
+-------------------------------------------------------
+
+OBJETOS CONTENIDOS
+
+-------------------------------------------------------
+--> SQL
+
+-------------------------------------------------------
+Procedimientos Almacenados:
+-------------------------------------------------------
+spAfectarComisionesChoferesMAVI
+
+-------------------------------------------------------
+Tablas:
+-------------------------------------------------------
+ListaIDOK
+ComisionesChoferesMAVI
+
+-------------------------------------------------------
+--> INTELISIS
+
+-------------------------------------------------------
+Variables:
+-------------------------------------------------------
+Info.ID
+Temp.Texto
+Info.Agente
+Info.Personal
+Info.EjercicioA
+Info.PeriodoA
+Info.Quincena
+Info.FechaA
+Info.EntregasMinMAVI-------------------------------------------------------
+--> TITULO: RO-ComisionesChoferes_frm.txt
+-------------------------------------------------------
+
+OBJETOS CONTENIDOS
+
+-------------------------------------------------------
+--> SQL
+
+-------------------------------------------------------
+Procedimientos Almacenados:
+-------------------------------------------------------
+spAfectarComisionesChoferesMAVI
+
+-------------------------------------------------------
+Tablas:
+-------------------------------------------------------
+ListaIDOK
+ComisionesChoferesMAVI
+
+-------------------------------------------------------
+--> INTELISIS
+
+-------------------------------------------------------
+Variables:
+-------------------------------------------------------
+Info.ID
+Temp.Texto
+Info.Agente
+Info.Personal
+Info.EjercicioA
+Info.PeriodoA
+Info.Quincena
+Info.FechaA
+Info.EntregasMinMAVI-------------------------------------------------------
+--> TITULO: RO-ComisionesChoferes_frm.txt
+-------------------------------------------------------
+
+OBJETOS CONTENIDOS
+
+-------------------------------------------------------
+--> SQL
+
+-------------------------------------------------------
+Procedimientos Almacenados:
+-------------------------------------------------------
+spAfectarComisionesChoferesMAVI
+
+-------------------------------------------------------
+Tablas:
+-------------------------------------------------------
+ListaIDOK
+ComisionesChoferesMAVI
+
+-------------------------------------------------------
+--> INTELISIS
+
+-------------------------------------------------------
+Variables:
+-------------------------------------------------------
+Info.ID
+Temp.Texto
+Info.Agente
+Info.Personal
+Info.EjercicioA
+Info.PeriodoA
+Info.Quincena
+Info.FechaA
+Info.EntregasMinMAVI

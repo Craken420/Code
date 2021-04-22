@@ -1,0 +1,115 @@
+-------------------------------------------------------
+--> TITULO: RO-ClienteExpressMavi_tbl.txt
+-------------------------------------------------------
+
+OBJETOS CONTENIDOS
+
+-------------------------------------------------------
+--> SQL
+
+-------------------------------------------------------
+Procedimientos Almacenados:
+-------------------------------------------------------
+Sp_AccionCancelarContactosMavi
+spRegistroSugerir
+spRegistroOk
+
+-------------------------------------------------------
+Tablas:
+-------------------------------------------------------
+ClienteExpressMavi
+MaviCtectoViveEnCalidad
+cte
+Cte
+Parentesco
+MaviCteCtoViveEnCalidad
+
+-------------------------------------------------------
+--> INTELISIS
+
+-------------------------------------------------------
+Variables:
+-------------------------------------------------------
+Info.ABC
+temp.Numerico1
+temp.Numerico2
+temp.Numerico3
+temp.Numerico4
+Info.Actualizar
+info.Actualizar-------------------------------------------------------
+--> TITULO: RO-ClienteExpressMavi_tbl.txt
+-------------------------------------------------------
+
+OBJETOS CONTENIDOS
+
+-------------------------------------------------------
+--> SQL
+
+-------------------------------------------------------
+Procedimientos Almacenados:
+-------------------------------------------------------
+Sp_AccionCancelarContactosMavi
+spRegistroSugerir
+spRegistroOk
+
+-------------------------------------------------------
+Tablas:
+-------------------------------------------------------
+ClienteExpressMavi
+MaviCtectoViveEnCalidad
+cte
+Cte
+Parentesco
+MaviCteCtoViveEnCalidad
+
+-------------------------------------------------------
+--> INTELISIS
+
+-------------------------------------------------------
+Variables:
+-------------------------------------------------------
+Info.ABC
+temp.Numerico1
+temp.Numerico2
+temp.Numerico3
+temp.Numerico4
+Info.Actualizar
+info.Actualizar-------------------------------------------------------
+--> TITULO: RO-ClienteExpressMavi_tbl.txt
+-------------------------------------------------------
+
+OBJETOS CONTENIDOS
+
+-------------------------------------------------------
+--> SQL
+
+-------------------------------------------------------
+Procedimientos Almacenados:
+-------------------------------------------------------
+Sp_AccionCancelarContactosMavi
+spRegistroSugerir
+spRegistroOk
+
+-------------------------------------------------------
+Tablas:
+-------------------------------------------------------
+ClienteExpressMavi
+MaviCtectoViveEnCalidad
+cte
+Cte
+Parentesco
+MaviCteCtoViveEnCalidad
+
+-------------------------------------------------------
+--> INTELISIS
+
+-------------------------------------------------------
+Variables:
+-------------------------------------------------------
+Info.ABC
+temp.Numerico1
+temp.Numerico2
+temp.Numerico3
+temp.Numerico4
+Info.Actualizar
+info.Actualizar

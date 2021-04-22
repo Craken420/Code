@@ -1,0 +1,38 @@
+-------------------------------------------------------
+--> TITULO: RO-ContSATComprobanteFaltante_frm.txt
+-------------------------------------------------------
+
+OBJETOS CONTENIDOS
+
+-------------------------------------------------------
+--> SQL
+-------------------------------------------------------
+Funciones:
+-------------------------------------------------------
+fnBuscaMetodoPago
+
+-------------------------------------------------------
+--> INTELISIS
+
+-------------------------------------------------------
+Formas:
+-------------------------------------------------------
+ContSATComprobante
+MovPos
+ContSATCheque
+ContSATTranferencia
+ContSATCFDCBB
+ContSATExtranjero
+ContSATOtroMetodoPago
+
+-------------------------------------------------------
+Variables:
+-------------------------------------------------------
+Info.Filtro
+Info.Tipo
+Info.Mov
+Info.Modulo
+Info.ID
+Info.Ejercicio
+Info.Periodo
+Info.Valor
